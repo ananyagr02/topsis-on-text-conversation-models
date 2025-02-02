@@ -1,5 +1,5 @@
 # TOPSIS-on-Text-Conversation-Models
-**Text-to-Text Model Evaluation using TOPSIS**
+**Text-Conversational Model Evaluation using TOPSIS**
 
 ## Overview
 This project evaluates four text-to-text (T2T) models based on fluency, relevance, coherence, creativity, and accuracy using TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution). The models evaluated include:
